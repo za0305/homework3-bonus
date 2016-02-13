@@ -1,0 +1,36 @@
+body {
+  height: 883px;
+  width: 959px;
+  margin: 0 auto;
+  background-image: url(../img/background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.logo{
+  width: 271px;
+  margin: 40px 0 0 60px;
+  float: left;
+}
+.contact{
+  margin: 130px 80px 10px 380px;
+  color: white;
+  font-size: 10px;
+  float: right;
+}
+.content{
+  margin: 55px;
+}
+.content a {
+  display: inline-block;
+  margin: 10px 5px 10px 5px;
+  color: white;
+  text-align: center;
+}
+.footer{
+  margin-top: 150px;
+  color: white;
+  text-align: center;
+  font-size: 10px;
+  /*margin-bottom: 30px;*/
+}
